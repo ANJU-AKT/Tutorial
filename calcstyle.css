@@ -1,0 +1,29 @@
+input[type="button"] 
+         { 
+             border: 4px solid lavender;
+         background-color:teal; 
+         color:black;  
+         width:100% 
+         } 
+table{
+    border: 4px solid lavender;
+    height: 400px;
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 40%;
+    background-color: lightblue;
+   
+}
+.title
+{
+    color: teal;
+    text-align: center;
+    font-size: large;
+}
+input[type="text"] 
+{ 
+background-color:teal; 
+border: 3px solid lavender; 
+width:98% ;
+height:50%;
+} 
